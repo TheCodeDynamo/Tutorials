@@ -1,0 +1,39 @@
+Service: Gmail
+SMTP Server: smtp.gmail.com
+Port: 587
+Security: TLS (or SSL on port 465)
+Note: You'll need to enable "Less secure apps" or create an "App Password" for your Gmail account.
+Outlook (Office 365 SMTP):
+
+------------------------------------
+
+Service: Outlook (Office 365)
+SMTP Server: smtp.office365.com
+Port: 587
+Security: TLS
+Yahoo Mail (Yahoo SMTP):
+
+------------------------------------
+
+Service: Yahoo Mail
+SMTP Server: smtp.mail.yahoo.com
+Port: 587
+Security: TLS
+SendGrid:
+
+------------------------------------
+
+Service: SendGrid
+SMTP Server: smtp.sendgrid.net
+Port: 587
+Security: TLS
+Note: You'll need to sign up for a SendGrid account and set up an API key.
+Mailgun:
+
+------------------------------------
+
+Service: Mailgun
+SMTP Server: smtp.mailgun.org
+Port: 587
+Security: TLS
+Note: You'll need to sign up for a Mailgun account and configure your domain.
