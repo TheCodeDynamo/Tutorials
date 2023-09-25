@@ -1,0 +1,14 @@
+Factorial(n) = 1 * 2 * ... * n
+
+--------------------------------------
+
+Factorial(1) = 1
+Factorial(2) = 1 * 2 = 2
+Factorial(3) = 1 * 2 * 3 = 6
+Factorial(4) = 1 * 2 * 3 * 4 = 24
+
+--------------------------------------
+
+Factorial(3) = Factorial(2) * 3 = 6
+Factorial(4) = Factorial(3) * 4 = 24
+
