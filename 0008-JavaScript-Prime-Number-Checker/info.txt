@@ -1,0 +1,18 @@
+A prime number is a natural number greater than 1 that has exactly two distinct 
+positive divisors: 1 and itself. 
+In other words, a prime number cannot be evenly divided by any other natural number 
+except for 1 and the number itself.
+
+Here are a few examples of prime numbers:
+
+2 (because it has only two divisors: 1 and 2)
+3 (because it has only two divisors: 1 and 3)
+5 (because it has only two divisors: 1 and 5)
+7 (because it has only two divisors: 1 and 7)
+11 (because it has only two divisors: 1 and 11)
+
+Prime numbers play a fundamental role in number theory 
+and various areas of mathematics and computer science. 
+They are important in cryptography, for example, where their properties are 
+used to secure information.
+
